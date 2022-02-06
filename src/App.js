@@ -9,8 +9,6 @@ import SideBarLeft from '@linkedinWeb/components/blocks/SideBarLeft';
 import SideBarRight from '@linkedinWeb/components/blocks/SideBarRight';
 import PostItems from '@linkedinWeb/components/blocks/content/PostItem';
 
-
-
 function App() {
   function toggleSearchInput() {
     const button = document.getElementById("search-button");
